@@ -1,0 +1,14 @@
+body {
+    background-color: gray;
+    display : flex ;
+    flex-direction : column ;
+    justify-content : center ;
+    align-items : center ;
+    height: 100vh;
+}
+
+h2{
+    margin :-1px;
+    font-size:4em;
+    color: #aafff4;
+}
